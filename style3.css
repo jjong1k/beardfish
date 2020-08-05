@@ -82,7 +82,7 @@ section .para .bold {
 }
 
 section .para .add {
-  font-size: 14px;
+  font-size: 12px;
 }
 
 section .para .add a:hover {
