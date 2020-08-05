@@ -72,7 +72,7 @@ section .para {
 section .para p {
   width: 700px;
   line-height: 155%;
-  font-size: 17px;
+  font-size: 14px;
   letter-spacing: 2px;
 }
 section .para span {
